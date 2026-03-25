@@ -5,7 +5,7 @@
 // Тестирование матриц
 
 #include <iostream>
-#include "tmatrix.h"
+#include "tmatrix.hpp"
 //---------------------------------------------------------------------------
 
 void main()
